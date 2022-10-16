@@ -2,4 +2,6 @@
 - 👀 저는 취미로 낚시, 영화보기, 당구 를 주로 하고있습니다. ㅎ
 - 🌱 저는 학교에서 plc, 코딩, nx 등을 배우고 있습니다.
 - 📫 저의 이메일은 ghs9846@gmail.com 입니다.
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 을 배우고 있습니다.
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Python&logoColor=white">을 배우고 있습니다.
+아래는 저번주에 제가 잡은 갈치입니다. ㅎ
+![내가잡은 갈치다](https://user-images.githubusercontent.com/113397889/196051593-9ba133bb-bef6-41c6-a6d6-3d35926d5ea1.jpg)
