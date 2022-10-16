@@ -3,5 +3,4 @@
 - 🌱 저는 학교에서 plc, 코딩, nx 등을 배우고 있습니다.
 - 📫 저의 이메일은 ghs9846@gmail.com 입니다.
 - 제가 저번주 토요일에 잡은 갈치입니다 자랑한번 해봅니다. ㅎ
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-![KakaoTalk_20221017_024411392_02](https://user-images.githubusercontent.com/113397889/196051028-10ea9689-9caf-4421-b060-8f75f0129011.jpg)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 을 배우고 있습니다.
